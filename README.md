@@ -9,13 +9,13 @@ The ipython notebook runs on jupyter hub, which is a handy visual repl. You can 
 pip install jupyter
 ```
 
-Additionally, in order to show the notebook as slides, the way that I presented it, I used RISE, which you can find here:
-
-https://github.com/damianavila/RISE
-
 I also used dataframes throughout, which you can get by doing:
 ```
 pip install pandas
 ```
+
+If you want to mimic the setup I had for slides, I used RISE with the notebook, which you can find here: 
+https://github.com/damianavila/RISE
+
 
 Enjoy!
